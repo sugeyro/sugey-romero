@@ -1,2 +1,2 @@
-# sugey-romero
-trabajo en equipo
+# trabajo en grupo colaborativo
+sugey romero
